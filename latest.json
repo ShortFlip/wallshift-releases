@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "- Boot to tray on autostart\n- Window position persistence\n- Light/dark theme toggle\n- Improved thumbnail loading\n- Editor section icons",
+  "version": "1.0.2",
+  "notes": "Updater test release",
   "pub_date": "2026-03-22T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOS8zQjZUN2VOcytDRWJMWml5YTVCYU10QzYrQ2ZVajZxU1YyRjZXT0Q2Qkw1TU5UVC9YNmhtNlRSalk2bko3Yk90ZDY5Q1RnNm0wUk1sMVNyRmE4VWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjM0NDQ0CWZpbGU6V2FsbFNoaWZ0XzEuMC4xX3g2NC1zZXR1cC5leGUKNWlaekh5QXUzRFNHK0JhTmJMSHhHMTY4NFl0dnRjSWtuR2N6MFhoUHNDemQ1L3lDaXA4bDAra1B3aUZTbGc2UU9qRTcrbS9hbVF4c0ZkSS9RT3VmQkE9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.1/WallShift_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXc1ZExaZDcyMFpJZytVc09NakJMTFRaWkUvSmg2a090b1NYaVMxOVBmdWhrN0VYSTJkdG5UTGlZMTBSU0VpUkpRSTZKeE1ocVVMQkxSekpEVUJBUUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjM1MTQ4CWZpbGU6V2FsbFNoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKdmkwRnRsaHU4VENtcXppS1hhSHFpYlZNa0t2S2lsKy96NmVzZGtpOEw3QjdyLys1SWtabWI4L0NpZ2Ric1hGOVNKcHl4L2FmMUpEdG9GTmdkWkRPRGc9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.2/WallShift_1.0.2_x64-setup.exe"
     }
   }
 }
