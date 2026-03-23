@@ -1,10 +1,10 @@
 {
   "version": "1.0.2",
-  "notes": "Updater test release",
-  "pub_date": "2026-03-22T00:00:00Z",
+  "notes": "- Settings panel (startup, theme, updates, cache in one place)\n- Orientation filter restored (All / Landscape / Portrait)\n- Clear cache with instant thumbnail retry\n- Close folder button in image browser\n- Image format validation on apply (catches wrong extensions with a clear error)\n- Fix thumbnails for files with mismatched extensions\n- Fix file size showing NaN MB",
+  "pub_date": "2026-03-23T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXc1ZExaZDcyMFpJZytVc09NakJMTFRaWkUvSmg2a090b1NYaVMxOVBmdWhrN0VYSTJkdG5UTGlZMTBSU0VpUkpRSTZKeE1ocVVMQkxSekpEVUJBUUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjM1MTQ4CWZpbGU6V2FsbFNoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKdmkwRnRsaHU4VENtcXppS1hhSHFpYlZNa0t2S2lsKy96NmVzZGtpOEw3QjdyLys1SWtabWI4L0NpZ2Ric1hGOVNKcHl4L2FmMUpEdG9GTmdkWkRPRGc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTA1RFlZenB5azIrczhqNHZzMFlQV3NCby9qTlo0R1Rrc1Jud2lRakl6Y01kZXlYaTdDcUtaSDhDaTdxR2FPNVdpdTdZRmN6UlZ3TTBSRDdWM3k5V0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjQwMDA0CWZpbGU6V2FsbFNoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKczkya1JCSkV5NzRUb21tVStPNEg3N0JyVTI1ZTJTSEZxQS9ScEs0aXRDSGEzSU1XTTJxVWlSSmNQN0IwYm8zaXQ0U3h6V0VWVDJOTzhadDRuVE1yREE9PQo=",
       "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.2/WallShift_1.0.2_x64-setup.exe"
     }
   }
