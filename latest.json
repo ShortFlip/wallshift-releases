@@ -4,8 +4,8 @@
   "pub_date": "2026-03-22T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PLACEHOLDER - replace after first build and sign",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.1/WallShift_1.0.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOS8zQjZUN2VOcytDRWJMWml5YTVCYU10QzYrQ2ZVajZxU1YyRjZXT0Q2Qkw1TU5UVC9YNmhtNlRSalk2bko3Yk90ZDY5Q1RnNm0wUk1sMVNyRmE4VWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjM0NDQ0CWZpbGU6V2FsbFNoaWZ0XzEuMC4xX3g2NC1zZXR1cC5leGUKNWlaekh5QXUzRFNHK0JhTmJMSHhHMTY4NFl0dnRjSWtuR2N6MFhoUHNDemQ1L3lDaXA4bDAra1B3aUZTbGc2UU9qRTcrbS9hbVF4c0ZkSS9RT3VmQkE9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.1/WallShift_1.0.1_x64-setup.exe"
     }
   }
 }
