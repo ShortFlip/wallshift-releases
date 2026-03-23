@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "- Boot to tray on autostart\n- Window position persistence\n- Light/dark theme toggle\n- Improved thumbnail loading\n- Editor section icons",
+  "pub_date": "2026-03-22T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "PLACEHOLDER - replace after first build and sign",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.1/WallShift_1.0.1_x64-setup.nsis.zip"
+    }
+  }
+}
