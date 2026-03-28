@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "- Settings panel (startup, theme, updates, cache in one place)\n- Orientation filter restored (All / Landscape / Portrait)\n- Clear cache with instant thumbnail retry\n- Close folder button in image browser\n- Image format validation on apply (catches wrong extensions with a clear error)\n- Fix thumbnails for files with mismatched extensions\n- Fix file size showing NaN MB",
-  "pub_date": "2026-03-23T00:00:00Z",
+  "version": "1.0.3",
+  "notes": "- Smart Surprise improvements: no duplicate wallpapers across monitors, theme cache persisted between sessions, weighted theme selection, live analysis progress counter\n- Panel divider positions remembered between launches\n- Profile export dialog now defaults to app data folder",
+  "pub_date": "2026-03-28T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTA1RFlZenB5azIrczhqNHZzMFlQV3NCby9qTlo0R1Rrc1Jud2lRakl6Y01kZXlYaTdDcUtaSDhDaTdxR2FPNVdpdTdZRmN6UlZ3TTBSRDdWM3k5V0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjQwMDA0CWZpbGU6V2FsbFNoaWZ0XzEuMC4yX3g2NC1zZXR1cC5leGUKczkya1JCSkV5NzRUb21tVStPNEg3N0JyVTI1ZTJTSEZxQS9ScEs0aXRDSGEzSU1XTTJxVWlSSmNQN0IwYm8zaXQ0U3h6V0VWVDJOTzhadDRuVE1yREE9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.2/WallShift_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTJvNk9IM2hQTGNUQXl3Y3ZEWjVtTGFJKzE0RFI5ZnJ2YWxNWjBSRzd4WGU1MnZUMXlDVXF1VVU3MllzWFBSM0JzQU03TnZFSGR4V3RsOGhhTGxCaUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzI0MjE1CWZpbGU6V2FsbFNoaWZ0XzEuMC4zX3g2NC1zZXR1cC5leGUKWHRMczJtenVMc0p2RTJSdmhST2xJWTFGY2dMaFJRN2VPRE1lWmhGUHoxdnFyRU5vZnpURGFMZGsyNHh6Q01LMkVwWjBhNWNBcnc2UUlsWkVleklNQWc9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.3/WallShift_1.0.3_x64-setup.exe"
     }
   }
 }
