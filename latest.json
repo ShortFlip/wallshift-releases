@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "- Smart Surprise improvements: no duplicate wallpapers across monitors, theme cache persisted between sessions, weighted theme selection, live analysis progress counter\n- Panel divider positions remembered between launches\n- Profile export dialog now defaults to app data folder",
-  "pub_date": "2026-03-28T00:00:00Z",
+  "version": "1.0.4",
+  "notes": "- Stream Deck integration: Apply All, Surprise All, Smart Surprise, and Switch Profile buttons\n- Profile selector uses a live dropdown populated from WallShift at runtime\n- Surprise All and Smart Surprise now auto-apply wallpapers immediately\n- WallShift preview thumbnails refresh when profiles are switched via Stream Deck",
+  "pub_date": "2026-03-29T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTJvNk9IM2hQTGNUQXl3Y3ZEWjVtTGFJKzE0RFI5ZnJ2YWxNWjBSRzd4WGU1MnZUMXlDVXF1VVU3MllzWFBSM0JzQU03TnZFSGR4V3RsOGhhTGxCaUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzI0MjE1CWZpbGU6V2FsbFNoaWZ0XzEuMC4zX3g2NC1zZXR1cC5leGUKWHRMczJtenVMc0p2RTJSdmhST2xJWTFGY2dMaFJRN2VPRE1lWmhGUHoxdnFyRU5vZnpURGFMZGsyNHh6Q01LMkVwWjBhNWNBcnc2UUlsWkVleklNQWc9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.3/WallShift_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTl3dlVSQ3BjN0lPY2dSS2Q0R1lncTNySHlUbWRySTRmL3d5dTJyeXMyc0J6U1FEYW1DOTk3ZExZSEt0K0l5azdUcDJwbElvQmxtL1hLUmh2Q1FDNkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NzQ2NzU1CWZpbGU6V2FsbFNoaWZ0XzEuMC40X3g2NC1zZXR1cC5leGUKa0FlZmw0ZUpvazNZN2xDZS9Mb1dCMSs2YU44c1NxYlhiVHlkQU52c2NFbWVSQXl0aVcwME5oUjR3UlF1c0x2MHZWbVBMTkFLTlVmTWJHV1l2L285RGc9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.4/WallShift_1.0.4_x64-setup.exe"
     }
   }
 }
