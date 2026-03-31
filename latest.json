@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "- Stream Deck+: new Dial action — rotate to scroll profiles, push to apply\n- Stream Deck: WallShift category label and icon in the actions list\n- Stream Deck: fixed Smart Surprise and Surprise All not applying after preview\n- Stream Deck: fixed Property Inspector dark theme styling\n- Online search: fixed orientation and resolution filters not applying correctly\n- Online search: added save-to-disk — hover a result and click the download icon\n- Online search: fixed Unsplash downloading preview size instead of full resolution\n- Online search: more results per page (Unsplash 20→30, Pexels 20→40)\n- Settings: Clear Cache now also clears the online downloads folder\n- Large wallpapers: adaptive settle time prevents apply failures on 40MB+ files",
-  "pub_date": "2026-03-29T00:00:00Z",
+  "version": "1.0.6",
+  "notes": "- Security: IPC server now requires token authentication — prevents unauthorized local processes from sending wallpaper commands\n- Security: file copy command restricted to WallShift downloads directory — prevents path traversal\n- Security: online image downloads sanitize filenames to prevent path injection\n- Security: API keys now decrypted in Rust only — plaintext keys never pass through JavaScript memory\n- Security: directory scans protected against symlink loop denial-of-service\n- Security: NSIS installer switched to per-user install — auto-updates no longer require UAC elevation\n- Cleanup: removed unused internal config module and dead code",
+  "pub_date": "2026-03-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXhkT05wMVpObUpYcWRDenFWYkx1bWF6d0Y2SlYyQ2NKeXRFZFlzdmFPWithcklzNTdJSFdXUERnVHJxMjdwVW5ETSsrYnU4MHFGYUxKdkFCbnhyN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0ODA4NTIzCWZpbGU6V2FsbFNoaWZ0XzEuMC41X3g2NC1zZXR1cC5leGUKNXJuUi9RTmtkT0dtSENCVGVsM3JPMU9RL0ZDRDkwc1dpOGZMelcwR1Fxa1lxV2pPMTZ4alVSN1plZ1FTUktTNGRTNmcyYndGSm9LYTRmUGtJSmMrQlE9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.5/WallShift_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOS9RaVYrTHl4QVhMZjJFTXdWYVFEeTJjMEZCL0I2ZHUxcTRrWmZIR2FtTTczTVJ1VFZmb3NLd2toTDNkNWdnZlJYbEhaYmFRMDJZbG56ZGNYNVEzTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTI3NzUwCWZpbGU6V2FsbFNoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKQTlNOG01THV3STJjSDRGQkswSndlTEVBREVWL0luYUM1aEZKL0szMFJ4eGZ2REFmeFRyOEhFNENrQmtwOE9nTWZYbTEzWDMvUGhjZlFhWVdERERaQ1E9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.6/WallShift_1.0.6_x64-setup.exe"
     }
   }
 }
