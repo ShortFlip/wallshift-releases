@@ -1,10 +1,10 @@
 {
   "version": "1.0.6",
-  "notes": "- Security: IPC server now requires token authentication — prevents unauthorized local processes from sending wallpaper commands\n- Security: file copy command restricted to WallShift downloads directory — prevents path traversal\n- Security: online image downloads sanitize filenames to prevent path injection\n- Security: API keys now decrypted in Rust only — plaintext keys never pass through JavaScript memory\n- Security: directory scans protected against symlink loop denial-of-service\n- Security: NSIS installer switched to per-user install — auto-updates no longer require UAC elevation\n- Cleanup: removed unused internal config module and dead code",
-  "pub_date": "2026-03-30T00:00:00Z",
+  "notes": "- New: single-monitor randomizer button (dice icon) — shuffles wallpaper on the selected monitor only\n- Fix: Stream Deck plugin now correctly authenticates with WallShift IPC on connect\n- Fix: rapid randomizer clicks no longer cause thumbnail flicker in the preview",
+  "pub_date": "2026-04-02T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOS9RaVYrTHl4QVhMZjJFTXdWYVFEeTJjMEZCL0I2ZHUxcTRrWmZIR2FtTTczTVJ1VFZmb3NLd2toTDNkNWdnZlJYbEhaYmFRMDJZbG56ZGNYNVEzTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTI3NzUwCWZpbGU6V2FsbFNoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKQTlNOG01THV3STJjSDRGQkswSndlTEVBREVWL0luYUM1aEZKL0szMFJ4eGZ2REFmeFRyOEhFNENrQmtwOE9nTWZYbTEzWDMvUGhjZlFhWVdERERaQ1E9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXpBSWNWclBNTDBvVE1kQ29UZVAra1JYZDVsZEFZalJFTStkTlNmTUtWTGxiSUNZbWt3UVNVakFsUjRRazdCa3VHdVlkaUtTV2xqcFdUc0kySWxzckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTgzMDIzCWZpbGU6V2FsbFNoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKcXpPT2lYQ2p0NU42ZXVJZHFyU2VHajBiWHo0VHV0ZWw1VHJnMmpTaVE0UncvK0RCOVlVYkVwSkNrRnpKeHRBUGwxQzVaQ2NWOGI0RXc2M1ZFTEtjQ1E9PQo=",
       "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.6/WallShift_1.0.6_x64-setup.exe"
     }
   }
