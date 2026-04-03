@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "notes": "- New: single-monitor randomizer button (dice icon) — shuffles wallpaper on the selected monitor only\n- Fix: Stream Deck plugin now correctly authenticates with WallShift IPC on connect\n- Fix: rapid randomizer clicks no longer cause thumbnail flicker in the preview",
   "pub_date": "2026-04-02T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXpBSWNWclBNTDBvVE1kQ29UZVAra1JYZDVsZEFZalJFTStkTlNmTUtWTGxiSUNZbWt3UVNVakFsUjRRazdCa3VHdVlkaUtTV2xqcFdUc0kySWxzckFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTgzMDIzCWZpbGU6V2FsbFNoaWZ0XzEuMC42X3g2NC1zZXR1cC5leGUKcXpPT2lYQ2p0NU42ZXVJZHFyU2VHajBiWHo0VHV0ZWw1VHJnMmpTaVE0UncvK0RCOVlVYkVwSkNrRnpKeHRBUGwxQzVaQ2NWOGI0RXc2M1ZFTEtjQ1E9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.6/WallShift_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTJrRDVhN3BmUzV1dG9KejcwT09NbFh4bGNnQ1Y1eVZrczZkRTdoREFwVjFVY0xaRTRLWkdVaFBMN1c5bjNrUUtxZnVNTXdYd01XR21xSnhGbGJqUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTgzMzAzCWZpbGU6V2FsbFNoaWZ0XzEuMC43X3g2NC1zZXR1cC5leGUKQ2grNElFblQwWUQzdmUwM3ZMMElrMThiQmVpZWlGWElrMkJUejh5eE5lQUZlS1VHNnZXajRiV3lNQTdid29paGZHVXh5akdISHVIdWlVNCt4TmN4RFE9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.7/WallShift_1.0.7_x64-setup.exe"
     }
   }
 }
