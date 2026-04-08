@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "- Fix: large wallpapers (>4096px) now auto-scale before apply — silently failed before on primary monitor\n- Fix: app no longer appears on screen at boot when autostart is enabled — stays in tray\n- Theme: Catppuccin Frappé color scheme with blue accent",
-  "pub_date": "2026-04-05T00:00:00Z",
+  "version": "1.0.9",
+  "notes": "- New: AI Pick — describe a vibe in plain English and let a local Ollama model choose wallpapers for all monitors (configure model in Settings)",
+  "pub_date": "2026-04-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXlRaUJSTVhlMTNaUzVENTJ1ZjVHTThzeno5d2hiMlFnNGZqWEZsZnVpaEVXeWhvUDlMVDUveklWUjFFMVFVaG1hdGVlWkVkczIyVXcyazFOWDRXZ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDM2NzM4CWZpbGU6V2FsbFNoaWZ0XzEuMC44X3g2NC1zZXR1cC5leGUKUUtNdmR2R0hEdnQ0YmpOaEREL1ZGOC9SZ2hObU00WmEvcmF6WWJBVWg3cXV6ejBObmRTeUJESE5IdkVveWhDNm5Kd2JCTGtjVFcraEhUcVdkaWpOQkE9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.8/WallShift_1.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTE5RFUySFZHRW52SFdmU0NoTWFTNE9KWFhOcm1lOHVPdHFxekdwZE1ocC82Ymc5cFdaY2drNFZrZTk3RlhuTSsxV0FvOXJCd0ZkVytaNjBWUUg1VlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU5NzM5CWZpbGU6V2FsbFNoaWZ0XzEuMC45X3g2NC1zZXR1cC5leGUKNDdBWlRCRHRBYk84SjFoblZtY3FPNzh0T2cvQTFjNUpJVkVHMURMbE92cFB0aFRvTjhqTHpyWncyWjB6WFFwcUJ6ZXpGRHVyYjNMTlZzVkJHU3BJQ3c9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.9/WallShift_1.0.9_x64-setup.exe"
     }
   }
 }
