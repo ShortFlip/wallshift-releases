@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "- New: AI Pick — describe a vibe in plain English and let a local Ollama model choose wallpapers for all monitors (configure model in Settings)",
-  "pub_date": "2026-04-08T00:00:00Z",
+  "version": "1.1.0",
+  "notes": "- New: Virtual desktops — save per-desktop wallpapers and auto-apply on switch.\n- Fixed: Black monitors after rearranging hardware — detection now uses QueryDisplayConfig device paths, no more ghost-clobbering.\n- Fixed: Silent apply failures on large images — transform cache now uses JPEG to stay under Explorer's transcoder size limit.\n- Fixed: Apply All no longer aborts on first failure; reports per-monitor success/failure.\n- Faster: Poll-until-verified replaces fixed settle sleeps — typical apply is noticeably snappier.",
+  "pub_date": "2026-05-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOTE5RFUySFZHRW52SFdmU0NoTWFTNE9KWFhOcm1lOHVPdHFxekdwZE1ocC82Ymc5cFdaY2drNFZrZTk3RlhuTSsxV0FvOXJCd0ZkVytaNjBWUUg1VlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjU5NzM5CWZpbGU6V2FsbFNoaWZ0XzEuMC45X3g2NC1zZXR1cC5leGUKNDdBWlRCRHRBYk84SjFoblZtY3FPNzh0T2cvQTFjNUpJVkVHMURMbE92cFB0aFRvTjhqTHpyWncyWjB6WFFwcUJ6ZXpGRHVyYjNMTlZzVkJHU3BJQ3c9PQo=",
-      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.0.9/WallShift_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReDArdU93eGxVOXdxWW9wTEdZTWJCaGtwN1EyeVF3dFc5andCT3NlQXliSlREaWQzOU1aTjhkeXRSWjlxT29lR3FzUGhJaUkxbXJJeWpxT0JBRFRhZjYycGlSNzFtRHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzI5MjQ5CWZpbGU6V2FsbFNoaWZ0XzEuMS4wX3g2NC1zZXR1cC5leGUKak05cHFNcWZSeTNFRnFZcjdSdlA5cXpsYS9icFJnUmhZUUowUHNEMWx1YnNCczBNNnBoSFZiTEE3VXBBMFhUUC82WDJaZWJkbHdMNWozOG1RRjVSQXc9PQo=",
+      "url": "https://github.com/ShortFlip/wallshift-releases/releases/download/v1.1.0/WallShift_1.1.0_x64-setup.exe"
     }
   }
 }
